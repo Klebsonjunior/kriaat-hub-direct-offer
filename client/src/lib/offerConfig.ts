@@ -15,9 +15,9 @@ export const OFFER_CONFIG = {
     divulgar: "",
   },
   prices: {
-    produto: "A definir",
-    vender: "A definir",
-    divulgar: "A definir",
+    produto: "R$ 37",
+    vender: "R$ 97",
+    divulgar: "R$ 197",
   },
 } as const;
 
