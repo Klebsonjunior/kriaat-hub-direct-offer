@@ -61,7 +61,7 @@ Headlines são específicas e confrontam o problema sem culpar. CTAs descrevem a
 > “Escolha quanto da estrutura você quer receber pronto. O resto fica mais simples a partir daí.”
 
 ### Wordmark & Logo
-Preservar o wordmark existente quando disponível. Para o símbolo da nova página, usar uma marca geométrica sem texto: uma folha dobrada que vira uma seta de avanço, com um pequeno recorte em forma de faísca. O símbolo aparece no header e como favicon, em tamanho visível e sem depender de tipografia gerada.
+Preservar **exatamente o wordmark e o símbolo existentes** na página de referência, incluindo desenho, proporções, cores e composição. Não gerar, redesenhar, reinterpretar ou substituir a logo. O mesmo SVG original deve aparecer no header e no footer; não criar um favicon novo sem um arquivo original fornecido.
 
 ### Signature Brand Color
 **Verde Kriaat — `#2F9B69`.** É a cor própria da ação: não significa promessa de resultado, mas o momento em que a pessoa escolhe e avança para a próxima etapa.
@@ -74,4 +74,4 @@ Os preços, prazos, quantidades de criativos, URLs de checkout, endpoint opciona
 
 - As áreas de pacotes e FAQ devem ler como folhas editoriais de produção e decisão, usando números, labels monoespaciais, linhas, papel e anotações em vez de parecerem cards genéricos de SaaS.
 - Amarelo/laranja fica reservado para viradas de crença, fitas, highlights e ênfases decisivas; Verde Kriaat `#2F9B69` fica reservado para ação, checkmarks e confirmação de avanço.
-- O símbolo de folha dobrada com seta e faísca é o dispositivo recorrente da Kriaat: reconhecível no header/footer e como carimbo discreto nos momentos de decisão.
+- A logo original da Kriaat é preservada sem alterações no header e no footer; a linguagem editorial dos momentos de decisão usa números, labels e linhas, sem criar um símbolo alternativo.
