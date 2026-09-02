@@ -17,7 +17,7 @@ export const OFFER_CONFIG = {
   prices: {
     produto: "R$ 37",
     vender: "R$ 97",
-    divulgar: "R$ 197",
+    divulgar: "R$ 297",
   },
 } as const;
 
@@ -25,6 +25,6 @@ export type PackageId = keyof typeof OFFER_CONFIG.checkoutUrls;
 
 export const packageLabels: Record<PackageId, string> = {
   produto: "Produto pronto",
-  vender: "Pronto para vender",
-  divulgar: "Pronto para vender + divulgar",
+  vender: "Produto + Página",
+  divulgar: "Operação pronta",
 };
